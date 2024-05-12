@@ -2,9 +2,9 @@
 
 ```yaml
 input-file:
-  - https://github.com/Azure/azure-rest-api-specs/blob/bce3a8d1141c8c6df26d17c94b0f5437f214141f/specification/devcenter/data-plane/Microsoft.DevCenter/preview/2023-10-01-preview/devcenter.json
-  - https://github.com/Azure/azure-rest-api-specs/blob/bce3a8d1141c8c6df26d17c94b0f5437f214141f/specification/devcenter/data-plane/Microsoft.DevCenter/preview/2023-10-01-preview/devbox.json
-  - https://github.com/Azure/azure-rest-api-specs/blob/bce3a8d1141c8c6df26d17c94b0f5437f214141f/specification/devcenter/data-plane/Microsoft.DevCenter/preview/2023-10-01-preview/environments.json
+  - ../azure-rest-api-specs/specification/devcenter/data-plane/Microsoft.DevCenter/preview/2024-05-01-preview/devcenter.json
+  - ../azure-rest-api-specs/specification/devcenter/data-plane/Microsoft.DevCenter/preview/2024-05-01-preview/devbox.json
+  - ../azure-rest-api-specs/specification/devcenter/data-plane/Microsoft.DevCenter/preview/2024-05-01-preview/environments.json
 output-folder: ../
 namespace: azure.developer.devcenter
 package-name: azure-developer-devcenter
